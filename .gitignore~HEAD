@@ -1,7 +1,0 @@
-<<<<<<< HEAD:.gitignore
-/requirements.txt
-/geckodriver.log
-=======
-requirements.txt
-geckodriver.log
->>>>>>> 2152d9e (f):gitignore
