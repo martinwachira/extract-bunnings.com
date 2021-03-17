@@ -1,0 +1,34 @@
+REQUIREMENTS
+
+1. MODULES
+
+The following python third party modules are required to run the script:
+
+* selenium
+* bs4
+* pandas
+
+They can be installed using "pip" e.g, 
+
+pip install selenium
+pip install bs4
+pip install pandas
+
+NB: make sure pip is added in the system path in case it is not already added
+
+2. DRIVERS
+
+The following drivers are required:
+
+* geckodriver - for mozilla firefox automation, you can get the driver from this link => https://github.com/mozilla/geckodriver/releases
+* chrome driver - for automating chrome web browser, you can get it from this link => https://chromedriver.storage.googleapis.com/index.html?path=2.42/
+
+I strongly recommend you use geckodriver as it produces better results
+
+After you have downloaded the drivers, add their location in the hard drive to the system path. In case this gives you a challenge, kindly feel free to contact me.
+
+
+
+PS: feel free to contact me in case you experience any problem whatsoever. 
+
+ 
